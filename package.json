@@ -1,0 +1,23 @@
+{
+  "name": "next-sanity-scaffold",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedjud/next-sanity-scaffold.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cedjud/next-sanity-scaffold/issues"
+  },
+  "homepage": "https://github.com/cedjud/next-sanity-scaffold#readme",
+  "devDependencies": {
+    "lerna": "^5.0.0"
+  }
+}
